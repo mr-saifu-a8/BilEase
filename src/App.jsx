@@ -1,10 +1,9 @@
-import React from 'react'
-import Login from './LoginPage/Login';
+import Routing from './routing/Routing'
 
 const App = () => {
   return (
     <div>
-      <Login/>
+      <Routing/>
     </div>
   )
 }
